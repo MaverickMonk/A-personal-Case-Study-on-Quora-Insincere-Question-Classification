@@ -1,6 +1,6 @@
 # A-personal-case-study-on-Quora-Insincere-Question-Classification
 
-# Final.ipnyb
+## Final.ipnyb
 This file contains the following functions:
 
 ### final_func_1
@@ -31,7 +31,7 @@ def final_fun_2(X,Y):
 return final_metric computed on X ( Raw Data) and Y (target variable)
 ```
 
-# Final Experiment.ipynb
+## Final Experiment.ipynb
 
 This file contains:
 1. Description of the Case Study 

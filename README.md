@@ -30,3 +30,16 @@ def final_fun_2(X,Y):
 ..... # the best model found by experimentation is used to predict.
 return final_metric computed on X ( Raw Data) and Y (target variable)
 ```
+
+# QQIC Final Experiment.ipynb
+
+This file contains:
+1. Description of the Case Study 
+2. Business Problem 
+3. Exploratory Data Analysis
+4. Data Preprocessing
+5. Tokenizing and Sequence Padding
+6. Model Building using Tensorflow Custom Layer and Keras API
+7. Predicton on Test Data
+8. Observation
+9. References

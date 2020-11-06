@@ -31,7 +31,7 @@ def final_fun_2(X,Y):
 return final_metric computed on X ( Raw Data) and Y (target variable)
 ```
 
-# QQIC Final Experiment.ipynb
+# Final Experiment.ipynb
 
 This file contains:
 1. Description of the Case Study 
